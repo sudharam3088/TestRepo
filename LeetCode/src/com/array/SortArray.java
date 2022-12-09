@@ -1,3 +1,6 @@
-class Sort{
+package com.array;
+
+
+public class SortArray{
   
 }
