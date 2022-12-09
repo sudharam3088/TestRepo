@@ -4,6 +4,8 @@ public class Palindrom {
 	
 	public static void main(String[] args) {
 		
+		System.out.println("Check for palindrom");
+		
 		String s="0P";
 		String str="";
 		String rev = "";
