@@ -40,7 +40,6 @@ public class SingleNumber {
 	            
 	        }
 	        
-		System.out.print("Last" + num);
 
 	}
 
