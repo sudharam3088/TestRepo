@@ -7,6 +7,9 @@ public class SortArray{
 	  
 	  int a[] = {2,5,7};
 	  for(int i=0; i<a.length; i++) {
+		  if(a[i] > 5){
+		  	a[i] = 0;
+		  }
 		  System.out.println(a[i]);
 	  }
 	  
